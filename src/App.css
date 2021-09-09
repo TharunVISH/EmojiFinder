@@ -1,0 +1,19 @@
+
+.form-outline{
+ 
+  margin: auto;
+  margin-top: 50px;
+}
+.alert{
+  height: 200px;
+  font-size: 100px;
+}
+.form-label{
+  font-weight: bold;
+  font-size: 30px;
+  
+}
+.form-outline{
+  width: 1000px;
+  
+}
